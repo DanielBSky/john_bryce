@@ -1,0 +1,82 @@
+[
+    {
+      "coupons": [],
+      "email": "oliver@gmail.com",
+      "firstName": "Oliver",
+      "id": 1,
+      "lastName": "Crouse",
+      "password": "oliver_crouse"
+    },
+    {
+      "coupons": [],
+      "email": "olivia@gmail.com",
+      "firstName": "Olivia",
+      "id": 2,
+      "lastName": "Jannet",
+      "password": "olivia_jannet"
+    },
+    {
+      "coupons": [],
+      "email": "danon@gmail.com",
+      "firstName": "Danon",
+      "id": 3,
+      "lastName": "Profer",
+      "password": "danon_profer"
+    },
+    {
+      "coupons": [],
+      "email": "danetta@gmail.com",
+      "firstName": "Danetta",
+      "id": 4,
+      "lastName": "Proud",
+      "password": "danetta_ptoud"
+    },
+    {
+      "coupons": [],
+      "email": "igma@gmail.com",
+      "firstName": "Igma",
+      "id": 5,
+      "lastName": "Jordan",
+      "password": "igma_jordan"
+    },
+    {
+      "coupons": [],
+      "email": "tenor@gmail.com",
+      "firstName": "Tenor",
+      "id": 6,
+      "lastName": "Trevors",
+      "password": "tenor_trevors"
+    },
+    {
+      "coupons": [],
+      "email": "julia@gmail.com",
+      "firstName": "Julia",
+      "id": 7,
+      "lastName": "Adelia",
+      "password": "julia_adelia"
+    },
+    {
+      "coupons": [],
+      "email": "bruno@gmail.com",
+      "firstName": "Bruno",
+      "id": 8,
+      "lastName": "Inner",
+      "password": "bruno_inner"
+    },
+    {
+      "coupons": [],
+      "email": "stout@gmail.com",
+      "firstName": "Stout",
+      "id": 9,
+      "lastName": "Lonov",
+      "password": "stout_lonov"
+    },
+    {
+      "coupons": [],
+      "email": "local@gmail.com",
+      "firstName": "Local",
+      "id": 10,
+      "lastName": "Mount",
+      "password": "local_mount"
+    }
+]

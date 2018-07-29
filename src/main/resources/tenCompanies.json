@@ -1,0 +1,72 @@
+[
+    {
+        "coupons": [],
+        "email": "block@block.com",
+        "id": 1,
+        "name": "BLOCK",
+        "password": "block1234"
+    },
+    {
+        "coupons": [],
+        "email": "brest@brest.com",
+        "id": 2,
+        "name": "BREST",
+        "password": "brest1234"
+    },
+    {
+        "coupons": [],
+        "email": "drum@drum.com",
+        "id": 3,
+        "name": "DRUM",
+        "password": "drum1234"
+    },
+    {
+        "coupons": [],
+        "email": "grog@grog.com",
+        "id": 4,
+        "name": "GROG",
+        "password": "grog1234"
+    },
+    {
+        "coupons": [],
+        "email": "aerofest@aerofest.com",
+        "id": 5,
+        "name": "AEROFEST",
+        "password": "aerofest1234"
+    },
+    {
+        "coupons": [],
+        "email": "slop@slop.com",
+        "id": 6,
+        "name": "SLOP",
+        "password": "slop1234"
+    },
+    {
+        "coupons": [],
+        "email": "tune@tune.com",
+        "id": 7,
+        "name": "TUNE",
+        "password": "tune1234"
+    },
+    {
+        "coupons": [],
+        "email": "fgh@fgh.com",
+        "id": 8,
+        "name": "FGH",
+        "password": "fgh1234"
+    },
+    {
+        "coupons": [],
+        "email": "makeday@makeday.com",
+        "id": 9,
+        "name": "MAKEDAY",
+        "password": "makeday1234"
+    },
+    {
+        "coupons": [],
+        "email": "mayway@mayway.com",
+        "id": 10,
+        "name": "MAYWAY",
+        "password": "mayway1234"
+    }
+]
