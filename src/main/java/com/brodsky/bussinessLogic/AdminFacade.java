@@ -10,6 +10,8 @@ import java.util.ArrayList;
 
 
 public class AdminFacade extends ClientFacade {
+    
+    int a = 5;
 
     public AdminFacade() {
         companiesDAO = new CompaniesDBDAO();
